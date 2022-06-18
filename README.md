@@ -5,7 +5,7 @@
 ### ⚾	Please visit  my [repositories](https://github.com/gudwo0121?tab=repositories) !
 
 ### 🏀	Skills : `Spring`  `MySQL` `MyBatis` `JSP` `HTML5` `CSS` `JavaScript` `JSTL` `JQeury` `NCP` `FTP`
-### 🏐	 Weekdays for `Algorithm` & Weekends for `Project`
+### 🏐	 Weekends for `Algorithm`
 
 ### 🏈	#`IT` #`Programming` #`Back-End` # `Job Search`
 
